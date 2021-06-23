@@ -6,10 +6,10 @@
 specializes in front end development. I love to make websites alive. <br>I am working hard to become a top notch web developer.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/sageOMEGA/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sageOMEGA&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=sageOMEGA&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=sageOMEGA&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/abhishekwebdevv/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekwebdevv&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=abhishekwebdevv&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekwebdevv&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
