@@ -22,8 +22,8 @@ specializes in front end development. I love to make websites alive. <br>I am wo
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nvsp;
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nvsp;
+![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
